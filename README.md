@@ -33,4 +33,4 @@ The project focuses on building the foundation of an AI assistant while practici
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/NEXORA-AI.git
+git clone https://github.com/sulimankaan099@gmail.com/NEXORA-AI.git
